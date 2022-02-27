@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The master-piece of round-heads, or, An explanation and declaration of the right round-heads in deed and such as are and shall be the true round-heads by all consent and act of Parliament. / Written by a well-wisher to King, Parliament, religion and state.</title>
+            <author>Well-wisher to King, Parliament, religion and state.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88916</idno>
+            <idno type="STC">Wing M1066</idno>
+            <idno type="STC">Thomason E90_22</idno>
+            <idno type="STC">ESTC R21328</idno>
+            <idno type="EEBO-CITATION">99871407</idno>
+            <idno type="PROQUEST">99871407</idno>
+            <idno type="VID">123818</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88916)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123818)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E90[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The master-piece of round-heads, or, An explanation and declaration of the right round-heads in deed and such as are and shall be the true round-heads by all consent and act of Parliament. / Written by a well-wisher to King, Parliament, religion and state.</title>
+                  <author>Well-wisher to King, Parliament, religion and state.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Feb. 24 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Roundheads --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="political_tract">
+            <pb facs="tcp:123818:1"/>
+            <pb facs="tcp:123818:1" rendition="simple:additions"/>
+            <head>The Maſter-piece of Round<g ref="char:EOLhyphen"/>heads, or an Explanation and Declara<g ref="char:EOLhyphen"/>tion of the right Round-heads in deed, And ſuch as are and ſhall be the true Round<g ref="char:EOLhyphen"/>heads by all conſent and Act of Parliament.</head>
+            <head type="sub">Written by a well-wiſher to King, Parliament, Religion and State.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HERE hath beene a great noyſe and rumour about the appellation and name of Round-heads: But it is not yet apparent, neither by Ancient or Moderne Writers, what theſe Round-heads ſhould be, neither to what uſe or meanes this name or appellation is applyed, or on what it is beſtowed or meant. If it be intended by the Author that firſt deviſed this name, that it ſhould be attributed and conſtrued to the plaine and right underſtanding of the word, as it is a primitive word, and literally;</p>
+            <p>Then it muſt be underſtood of all men as they have Round-heads, al<g ref="char:EOLhyphen"/>though ſome heads be rounder then others, as if a man have a round ſhoulder, he is called round ſhouldered, and if a man have a bottle-noſe, he is called a bottle-noſe, and ſo likewiſe in all the like occaſions, men may be termed by ſuch names and appellations, and ſo in this conſtructi<g ref="char:EOLhyphen"/>on, onely thou that firſt ſet forth this name of Round-head ſhalt be ſo termed, and my ſelfe likewiſe will be thy brother Round-head. So like<g ref="char:EOLhyphen"/>wiſe all men in Chriſtendome are termed Chriſtians, although ſome be
+<pb facs="tcp:123818:2"/>good, and ſome bad, ſome of one opinion and ſome of another, ſome Papiſts, ſome Browniſts, ſome Anabaptiſts, &amp;c. yet all Brothers in Chriſt; now as in this ſence all men may be termed by the name of Round-heads, it muſt not be underſtood and conceived that the Author did intend that all men ſhould be ſo termed or reputed, but he had a further reach to at<g ref="char:EOLhyphen"/>tribute this name as a nickename, or a ſcandall to ſome particular perſons, which opinion verily is by all or moſt men conceived, and not to the ſenſe or conſtruction of a primitive word onely, for that were nothing, but as may be underſtood of all men alike. Now then good brother Round-head, for ſo we are all in the primitive word, give me leave to expreſſe your underſtanding herein (if you have any underſtanding) and to unfold that which hath ſo long beene hid, and not unmasked, and that you and all the world ſhall confeſſe, who are the right Round-heads you meant in particular, for no doubt in the generall, it was intended by you as a by-blow and nickename of ſcandall to ſome particular kinde of perſons, and thoſe in all mens judgements muſt be meant of ſuch as deſerve ſcandall; for it is in charity conceived, that you would not apply ſcandall but upon ſuch as deſerved it, whether it be in ſome particular ſinne, as Drunkenneſſe, Adultery, looſe life, or erroneous in their Religion or Doctrine: or in ſome outward comportment, or ceremony, or the like, contrary to the civill and lawfull government of our Church, State and Kingdome.</p>
+            <p>Now then deare brother Round-head, I muſt ſeriouſly tell you that there are but two ſorts of men in the world, the one good, the other bad; ſo Chriſtians being men, are ſome good, ſome bad, ſo all men are Round<g ref="char:EOLhyphen"/>heads in the primitive ſenſe, and ſo ſome good, ſome bad: now in cha<g ref="char:EOLhyphen"/>rity it is granted that you meant not this nickname nor ſcandall againſt the good, howſoever the good may be abuſed by theſe names: now then to come nearer the matter, how many ſorts of good men be there, and how many ſorts of bad men be there? As for the good in this cauſe, they admit no diviſion, and therefore we muſt leave them, as no part of our Diſcourſe, becauſe it will not be denied by the Authour himſelfe, but that they were cleared of this nickname or ſcandall, and was never inten<g ref="char:EOLhyphen"/>ded againſt them: Well then, it muſt be underſtood (as farre as we can gather) how many ſorts of bad men there be, for they are not as the good are, but may be divided, and ſurely are alwayes divided, for they can never agree; and ſo to know againſt what ſort of bad this name was in<g ref="char:EOLhyphen"/>tended. Now to come yet a little nearer to my brother Round-heads mea<g ref="char:EOLhyphen"/>ning, let the bad be of as many ſorts as can be thought of, for it were too much for one to remember them all. It is conceived that amongſt all
+<pb facs="tcp:123818:2"/>theſe bad ſorts of people in the world, he intended this nickname or ſcan<g ref="char:EOLhyphen"/>dall upon that ſort of bad that are contrary, oppoſite, or differing in Reli<g ref="char:EOLhyphen"/>gion and ceremonies to the Doctrine of the Church of <hi>England.</hi> Now up<g ref="char:EOLhyphen"/>on this point it muſt be knowne who, and how many ſorts of religions, Ceremonies and practiſes there be, which are contrary to the true and Orthodox Church of <hi>England;</hi> but becauſe there be ſo many ſorts, it will be too tedious to recite them all, and to tell you of the whole nine and twenty ſects of late ſet forth, but onely touch thoſe that are knowne to be the moſt enemies to the Church and State, as the Papiſts, the Browniſts, the Anabaptiſts, the Separatiſts, and a new Religion, and yet no Religion, called Cavalliers, which is lately ſprung up, <hi>Jam nova progenies barathro ſublata ſub imo, Chara diaboli ſoboles</hi> &amp;c. They in ſome ſort would imitate the Apoſtles that were fiſhermen, for with theſe Cavalliers all is fiſh that come to their net. And yet to come a little nearer my brother Round-head, it muſt be knowne alſo which of theſe ſorts or ſects hee meant or intended by this nick name of Round-head. Now becauſe there lyes the hidden my<g ref="char:EOLhyphen"/>ſtery, this riddle was never diſſolved, nor none by him ever named, who or what particular ſect was the intended Round-head, therefore it muſt, ſhall, and can be not otherwiſe intended and meant, but that all ſects, as Papiſts, Browniſts, Anabaptiſts, Separatiſts, Cavalliers, and whatſoever elſe are not with, or any way againſt the true proteſtant Religion maintained by the King, Parliament and State of this Kingdome, are and ſhall be from henceforth deemed, reputed, and taken by the names and appellations of Round-heads, and ſhall be from henceforth ſo authorized to be named and reputed by Act of Parliament, and the aforeſaid honeſt Proteſtant to be cleared herein: and this no doubt was the true meaning and intention of the author, howſoever it hath beene miſapplyed many times by theſe aforeſaid Round-heads, to unload themſelves and caſt this aſperſion upon the true, honeſt, Religious, and Zealous Proteſtants, whom neither King, or Parliament, or good men could ever detect; and therefore, me thinkes, the Authour was not ſo wiſe neither (as God might have made him) for if he had he might have expreſt and ſet down every particular Round<g ref="char:EOLhyphen"/>head, with a ſeverall addition, whereby they might have beene the better knowne to the Kingdome, and done himſelfe much honour to cleare his meaning, in expreſſing himſelfe and his good will, in clearing thoſe good Proteſtants that were no wayes to be accompted amongſt that rable, as that rable would make them: as for example, the Papiſts in regard of this, many miſchievous Machiavile plots and conſpiracies againſt this State and Kingdome, as that of 88. and that of the Gunpowder Treaſon, with many other Machiavilian deviſes, continually practiſed againſt our
+<pb facs="tcp:123818:3"/>King, this preſent Parliament, and State, and therefore it had beene a very fit addition to have called them by the name of a Machiavile Round<g ref="char:EOLhyphen"/>head, ſo likewiſe the Browniſts, becauſe they Preach and teach at the backeſide of <hi>Brownes</hi> Barne, from which name and Barne they had their denomination of their Religion, and therefore it had beene very well to have knowne them (as hereafter they ſhall be) by the name of a Browne Round-head. So likewiſe the Separatiſts and Anabaptiſts, they uſe to re<g ref="char:EOLhyphen"/>baptize in Rivers, and preach in Tubs, and other ſecret places, and ſuch like odde deviſes, and therfore it is very proper to have them called by the name of Tub Round-heads. And ſo likewiſe theſe Cavalieres, whoſe Religion is ſo hidden and not knowne indeed to be any at all; and not to have any meanes of living, but <hi>Ex damno alterius,</hi> and theſe are thoſe that ſweare God dam'me, and therefore there can be no name or addition more proper to diſtinguiſh them from the other, then to call them dam'd Round-heads, and this is the dam'd Round-head indeed, <hi>Projicit am<g ref="char:EOLhyphen"/>pull as &amp; ſeſquipedalia verba;</hi> and it is moſt certaine, if they doe not amend their lives damnation will be their end, which God have mercy upon them, and give them repentance. Theſe, and many more might be expreſt, but that it were too tedious, I will name onely one ſort more, which are as ill or worſe then the reſt, and theſe are the Pulpit men, Miniſters, and perhaps there might be gleaned out ſome that taſte of every ſort of theſe before named Round-heads, but they ſhall goe with their followers. But here ſpecially is meant thoſe Pulpit men, that upon all occaſions are of all Religions, that will drinke up iniquity as beaſts drinke water; I meane the ſcandalous Miniſters, <hi>qui ſunt Rebelles lumini,</hi> that will pro<g ref="char:EOLhyphen"/>feſſe with the good, but act with the bad, which are a ſhame and ſcandall to them that are good Miniſters indeed, ſuch as are Drunkards, Adulte<g ref="char:EOLhyphen"/>rers, contentious perſons, mankillers, common Barrettors, like that Mi<g ref="char:EOLhyphen"/>niſter that had forty and odde Articles againſt him in Print, and like the two noted ſcandalous miniſters in <hi>Suffolke,</hi> named <hi>Thomas Fowkes,</hi> and <hi>John Lowes,</hi> the one found guilty of killing a man, the other Arraigned for witch-craft, and convicted for a common Barretror, as appeares on Record, and as they are lively ſet forth in a Printed Booke called the <hi>Magazine of Scandall:</hi> theſe are the devilliſh crue, that are not onely bad themſelves but infect others, and carry a brand and plague with them whereſoever they come, not onely by their inſufficiency, diverſity, and unconſtancy of Doctrine, but alſo by their example of evill life and con<g ref="char:EOLhyphen"/>verſation, <hi>quorum non ſolum vita, ſed oratio eſt execrabilis,</hi> and therefore they ſhall (as moſt proper to them) beare the name and brand of devilliſh Round-heads, and of theſe the Parliament have had notice of ſufficient<g ref="char:EOLhyphen"/>ly,
+<pb facs="tcp:123818:3"/>and have promiſed a courſe accordingly to purge the Church of them. Now brother Round-head, if you had taken this courſe to have given your diſtinction and addition in this kinde, you had not left a gap open for the diſparagement of any other honeſt religious good Proteſtant Mi<g ref="char:EOLhyphen"/>niſter or Layman, as theſe Round-heads have taken advantage to doe, thinking thereby to cleare themſelves of that imputation. But let it be granted that theſe Machiavell, Browne. Tub, Dam'd, devilliſh Round<g ref="char:EOLhyphen"/>heads, will apply this name of Round-head to an honeſt, good and zea<g ref="char:EOLhyphen"/>lous Proteſtant (as none elſe will) then it cannot be attributed to him, nor can he have any other addition then a good Round-head, for elſe we are cleane againſt our former ground, that all men (and ſo all Round<g ref="char:EOLhyphen"/>heads) are either good or bad, and good admits no diviſion as before ſuffi<g ref="char:EOLhyphen"/>ciently is made manifeſt, but of bad you may ſee how many diviſions there be, &amp; as long as a Proteſtant be good as no doubt there is none good, but a true zealous Proteſtant, then let theſe aforeſaid Macheavell Round, tub, dam'd, devilliſh Round-heads, call them what they will, they care not, neither was it ever taken to themſelves, neither will any man of any rea<g ref="char:EOLhyphen"/>ſonable judgement, ever thinke that it was the Authors meaning to attri<g ref="char:EOLhyphen"/>bute it to them, and let my brother Round-head cleare himſelfe in this point, for if he meant otherwiſe then here is formerly expreſſed, he ſhall no longer be my Brother Round-head, in the ſimple and primitive con<g ref="char:EOLhyphen"/>ſtruction and underſtanding of the word, as before is declared, but ſhall be adjudged and deemed for ever hereafter to be one of the other former right Round-heads indeed, and ſo amongſt them ſhall be declared to be by Act of Parliament, as all Machiavell, browne, tub, dam'd and devilliſh Roundheads ſhall be. And although thou ſhouldeſt be ſuch a Round-head as that thou ſhouldeſt meane otherwiſe then before is expreſſed, yet then thou muſt thinke that no honeſt, no wiſe man will judge or accompt thee to be either honeſt or wiſe in thy intentions, for who can deſerve any nickname or ſoandall, but ſuch as are againſt our true Religion, ſuch as are diſquieters of our publique peace, ſuch as are evill Counſellors to King or State, ſuch as will or would make diviſion betwixt King and Parliament, or State, but for their owne ends.</p>
+            <p>And what are theſe but ſuch or the like kinde of Round-heads, as be<g ref="char:EOLhyphen"/>fore are manifeſted? I pray tell me unto whom ſhould we attribute a<g ref="char:EOLhyphen"/>ny nicke name or ſcandall but to ſuch, who are the Round-heads now? Can any man ſpeake the contrary? Can any man (I meane of the ſober and honeſt ſort) attribute any nicke name or ſcandall to honeſt and good men? yet ſome of theſe ſorts of Round-heads have not beene aſhamed to abuſe the moſt Religious, well governed Proteſtants, yea ſome of the very
+<pb facs="tcp:123818:4"/>higheſt Court of Juſtice, from whence we have had, muſt, and ought to have our chiefeſt being both for our Religion, lives, and eſtates, or elſe we muſt periſh, and by whoſe daily unſpeakeable labours, doe endeavour to preſerve the Kings Majeſty, themſelves, and all good Subjects from that miſerable condition in which we are ready to fall into by the meanes of thoſe Round-heads, if they doe not like good hearted Souldiers, perſevere in this good worke, and ſtand in the battle with an invincible conſtan<g ref="char:EOLhyphen"/>cy, againſt all oppoſition and corruption that can be, ſecretly, openly, or cunningly, projected, diviſed, imagined or intended againſt the Kings Majeſty, his Parliament, and body, and heart of this famous Kingdome, as hitherto they have done. Pleaſe his Majeſty, and the Parliament una<g ref="char:EOLhyphen"/>nimouſly to conſent to roote out theſe forenamed Round-heads (as no doubt but they will:) O then our feares and rumours of warres will va<g ref="char:EOLhyphen"/>niſh as miſts againſt the morning Sunne.</p>
+            <p>O what a happy ſtate our Kingdome will be reduced unto! for then no doubt but his Majeſty as head, may be compared like the Sunne in the fir<g ref="char:EOLhyphen"/>mament with his body of ſo many ſtarres about him, yea ſo many milli<g ref="char:EOLhyphen"/>ons of inferior ſtarres, as there be inferior Subjects in his three Kingdoms, will ſhine about him with joy full hearts, and crying loud acclamati<g ref="char:EOLhyphen"/>ons of Joy. What a wickedneſſe is it to thinke that the head ſhould be di<g ref="char:EOLhyphen"/>vided from the body, in which body we all know the heart lies? Oh the heart of the Subject is a preſervative and cordiall thing to a Prince, and ſo alſo the head being taken away, the heart dyes. O what a deviliſh damn'd tricke of the Devill was this, to bring or ſend ſuch Machevile dam'd Round-heads and incendiaries into the World, to worke ſuch an un<g ref="char:EOLhyphen"/>heard of plot as (if they could) to divide the King and the Parliament! <hi>O tempora, O mores!</hi> And none but the devill and his agents and ſervants could ever have deviſed the like; but yet for all this the body and the heart will not be divided from their head, <hi>invito diabolo;</hi> they worke day and night without breathing or ſleeping to draw and obtaine their head unto them <hi>(Vis unita fortior)</hi> they will not be divided, they will endeavour to ſupport the King out of the hands of his ſecret enemies, and raiſe his Ma<g ref="char:EOLhyphen"/>jeſties honour and ſtate, they will draw him with cords of love, and hands of love, howſoever the devill, and theſe forenamed Machevile dam'd Round-heads endeavour to overthrow both King and Kingdome, and weigh him like <hi>Belſhazzer, qui inventus eſt minus habens,</hi> but it is God hea<g ref="char:EOLhyphen"/>ring our prayers will caſt out all theſe devils from amongſt us; for by pray<g ref="char:EOLhyphen"/>er it muſt be done, and theſe Round-heads his ſervants will not faile of themſelves, and then ſeeke a new Country, where they will get new foot<g ref="char:EOLhyphen"/>ing, and perhaps may hope for new projections elſe where, if in the meane
+<pb facs="tcp:123818:4"/>time the Gallowes or ſome other place of execution doe not ſtoppe them. Now to conclude that which is the matter treated of, that is the Declara<g ref="char:EOLhyphen"/>tion and ſettling of this name, of the Right Round-heads indeed, I moſt humbly beſeech his Majeſty, and that moſt honourable body and heart of the Kingdome, to give their approbation and opinion in this affaire, and ſo to countenance the good, honeſt, zealous and true proteſtant, and to diſ<g ref="char:EOLhyphen"/>charge them in your good opinions of this terme of Round-head (as no doubt you can doe no otherwiſe) and to lay and ſet it (as due of Right be<g ref="char:EOLhyphen"/>longing) upon the afore named Round-heads, with their additions, as namely the Machevile Round-head, the Browne Round-head, the Tubb Round-head, the dam'd Round-head, and the devilliſh Round-head, theſe being the chiefe, yea the onely troublers and enemies to Religion, the King, State, and Kingdome, and to whom this appellation or terme was without all queſtion; firſt attributed and deſervedly intended, it being un<g ref="char:EOLhyphen"/>poſſible that any good men ſhould deſerve any nickename or ſcandall, or that any man that could but write or reade Engliſh ſhould intend or caſt it upon any good man, much leſſe the Author thereof; and thus by your good countenance and approbation the Round-head may be thus known and diſtinguiſhed from honeſt men by Act of Parliament, that is, by con<g ref="char:EOLhyphen"/>ſent both of King and Parliament; which I being ſure not to be denyed; it is granted that they muſt for ever hereafter be ſo named, reputed, and ta<g ref="char:EOLhyphen"/>ken. Now to ſet forth the watchfull wiſedomes, the laborious careful<g ref="char:EOLhyphen"/>neſſe, the continuall diligence, and unſpeakeable bleſſings God hath given this Parliament to enable them to prevent all theſe plots and conſpiracies, whereby they have preſerved both the King, themſelves, and Kingdome; It were a folly yea a preſumption in me to endeavour to doe or ſay more therein; being impoſſible for me to doe: But thus much for concluſion, I am ſure I may, and can, and will ſay; God bleſſe the King, and his Parliament, and confound all thoſe aforeſaid Round-heads, or any other that wiſh a<g ref="char:EOLhyphen"/>ny hurt either to King, Parliament, or Kingdome, or goe about to work any diviſion or ſeparation betwixt the King and the Parliament, or Sub<g ref="char:EOLhyphen"/>jects. And ſo I deſire all honeſt men to remember, and know who are the Right Round-heads indeed, and to ſhun them and all others that to this will not ſay, Amen.</p>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>TO Cavaliers, that hang in the briers, and ſo to every Juſt as,</l>
+               <l>
+                  <hi>Quidlibet audendi ſemper fuit aequa poteſtas.</hi>
+               </l>
+               <l>They drinke and fight, from morne till night, but ſtill lodge where their whore is,</l>
+               <l>
+                  <hi>Laudandi ne quid cogitent tolerare laboris.</hi>
+               </l>
+               <pb facs="tcp:123818:5"/>
+               <l> Rob and ſteale, &amp; cut piecemeale, theſe Round-heads never repent them;</l>
+               <l>
+                  <hi>Monſtrum horrendum, informe, ingens, cui lumen ademptum.</hi>
+               </l>
+               <l>The battle ſpun, theſe Roundheads run, you muſt know where their flight is:</l>
+               <l>For, <hi>Noctes atque dies patet atri janua Ditis.</hi>
+               </l>
+               <l>When ſpoyle they get, they cry more yet, but none will ſay, <hi>Dolebo;</hi>
+               </l>
+               <l>But, <hi>Flectere ſi nequeo ſuperos, Ach<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ronta movebo.</hi>
+               </l>
+               <l>They have open throats, Red Louſie Coates, I care not for their lice I;</l>
+               <l>
+                  <hi>Spectatum admiſſi riſum teneatis amici?</hi>
+               </l>
+               <l>In zeale and heate, of love ſo great, with whores they pleaſe with <hi>verbis:</hi>
+               </l>
+               <l>
+                  <hi>Hei mihi quod nullis amor eſt medicabilis herbis.</hi>
+               </l>
+               <l>They plunder our food, and envy our good, and they live where none but ſlime is:</l>
+               <l>
+                  <hi>Invidus alterius rebus macreſcit opimis.</hi>
+               </l>
+               <l>They have fiery ſwords, and bluſtring words, and ſweare God dam'me Ile eate thee;</l>
+               <l>
+                  <hi>Nam mirandacanunt, ſed non credenda poetae.</hi>
+               </l>
+               <l>From death and harmes, yea without armes, our God from devils will eaſe us;</l>
+               <l>
+                  <hi>Daemona non armis, ſed morte ſubegit Jeſus.</hi>
+               </l>
+               <l>Without all grace, with ill looking face, which ſhew they will infult you:</l>
+               <l>
+                  <hi>Heu quam difficile eſt crimen non prodere vultu!</hi>
+               </l>
+               <l>Theſe roaring dawes, will put downe Lawes, &amp; turne things topſie-turva,</l>
+               <l>
+                  <hi>Argentum atque Aurum faciunt rectiſſima curva.</hi>
+               </l>
+               <l>Let theſe red-coats, pul out our throats, let's ſleepe till they have pluckt us:</l>
+               <l>
+                  <hi>Quos ego? ſed motos praeſtat componere fluctus.</hi>
+               </l>
+               <l>Shal's fire them all, both great and ſmall, and thus ſeeke to decline theſe?</l>
+               <l>
+                  <hi>Eſt modus in rebus, ſunt certi denique fines.</hi>
+               </l>
+               <l>King and Cavaleeres, Parliament and Peeres, the Kingdome do deplore ye:</l>
+               <l>
+                  <hi>Sol<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>men miſeris Socios habuiſſe dolore.</hi>
+               </l>
+               <l>They live on the lurch, but neere goe to Church, prophaning with vice they have plenty:</l>
+               <l>
+                  <hi>Petere nec temphem, venerare nec omnipotenti.</hi>
+               </l>
+               <l>The work ſhall be no mans, to make us al <hi>Romans,</hi> tis God that bids them repent them,</l>
+               <l>
+                  <hi>Tantae molis erit Romanam condere gentem.</hi>
+               </l>
+               <l>The great <hi>French</hi> pock, <hi>Venerean</hi> ſmocke, and rot is come among um,</l>
+               <l>
+                  <hi>Cum multis aliis quae nunc perſcribere longum.</hi>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
